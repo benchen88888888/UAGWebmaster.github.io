@@ -1,0 +1,22 @@
+Benny Ben Chen:
+Make sure all files look like home.html in terms of
+social media icons, nav bar, and logo?
+
+Work on Founders page
+
+Costie Allie Pastie:
+------------------------------------
+DO BEFORE ANYTHING ELSE.
+WORD PRESS DOES NOT WORK.
+
+
+MAKE A GMAIL ACCOUNT CALLED
+user:ufl.uag.webmaster@gmail.com
+pass:thepasswordisnotpassword
+
+Then go to github and upload all the files we have there.
+
+-----------------------------------
+
+Fix tables and add info to tables
+Check for Ben's spelling errors
